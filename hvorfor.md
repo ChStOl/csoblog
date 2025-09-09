@@ -1,20 +1,11 @@
-## <nav style="text-align:center; font-size:1.1em; margin-bottom:2em;">
-
-## &nbsp; \[Forside](/index) · 
-
-## &nbsp; \[Valget af valgfag](/hvorfor) · 
-
-## &nbsp; \[UI/UX](/postsui) · 
-
-## &nbsp; \[Spiludvikling](/postssu) · 
-
-## &nbsp; \[Generelt](/posts/) · 
-
-## &nbsp; \[Om mig](/about)  
-
-## </nav>
-
-## 
+<nav style="text-align:center; font-size:1.1em; margin-bottom:2em;">
+  [Forside](/index) · 
+  [Valget af valgfag](/hvorfor) · 
+  [UI/UX](/postsui) · 
+  [Spiludvikling](/postssu) · 
+  [Generelt](/posts/) · 
+  [Om mig](/about)  
+</nav>
 
 ## UX/UI
 
@@ -28,15 +19,9 @@ Spiludvikling har jeg valgt, fordi jeg interesserer mig for både kreativitet og
 
 Derudover giver spiludvikling mig mulighed for at lære at arbejde med forskellige værktøjer og teknologier, som også kan bruges i andre udviklingsprojekter. Jeg kan godt lide at løse udfordringer, der opstår undervejs, og det motiverer mig at se mine idéer udvikle sig fra koncept til færdigt spil.
 
-
-
 ---
 
-
-
 <footer style="text-align:center; font-size:0.9em; color:gray;">  
-
-© 2025 CSO Blog – Alle rettigheder forbeholdes · \[Om mig](/about)
-
+© 2025 CSO Blog – Alle rettigheder forbeholdes · [Om mig](/about)  
 </footer>
 

@@ -32,7 +32,7 @@ Jeg har startet den her blog for at:
 Her finder du alle mine indlæg samlet:  
 
 - [Hvorfor netop disse to valgfag?](https://chstol.github.io/csoblog/hvorfor)  
-- [Kolb's læringscyklus](https://chstol.github.io/csoblog/posts/PostOmKolb
+- [Kolb's læringscyklus](https://chstol.github.io/csoblog/posts/PostOmKolb)
 - _(flere indlæg kommer løbende …)_  
 
 ---

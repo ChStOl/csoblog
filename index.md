@@ -5,7 +5,8 @@ Denne blog er mit personlige rum, hvor jeg deler tanker, erfaringer og indsigter
 
 [Hvorfor netop disse to valgfag?](https://chstol.github.io/csoblog/posts/hvorfor "Find out more!")
 
-**Læring ikke er en destination – men en rejse**. Her skriver jeg åbent om, hvad jeg lærer, hvilke udfordringer jeg møder, og hvordan jeg hele tiden prøver at udvikle mig.
+**Læring ikke er en destination – men en rejse**.
+Her skriver jeg åbent om, hvad jeg lærer, hvilke udfordringer jeg møder, og hvordan jeg hele tiden prøver at udvikle mig.
 
 ---
 

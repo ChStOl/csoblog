@@ -1,10 +1,10 @@
 <nav style="text-align:center; font-size:1.1em; margin-bottom:2em;">
-  [Forside](/index) · 
-  [Valget af valgfag](/hvorfor) · 
-  [UI/UX](/postsui) · 
-  [Spiludvikling](/postssu) · 
-  [Generelt](/posts/) · 
-  [Om mig](/about)  
+  <a href="/csoblog/index">Forside</a> ·
+  <a href="/csoblog/hvorfor">Valget af fag</a> ·
+  <a href="/csoblog/postsui/">UI/UX</a> ·
+  <a href="/csoblog/postssu/">Spiludvikling</a> ·
+  <a href="/csoblog/posts/">Generelt</a> ·
+  <a href="/csoblog/about">Om mig</a>
 </nav>
 
 ## UX/UI

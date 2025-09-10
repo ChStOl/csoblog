@@ -1,17 +1,17 @@
 <nav style="text-align:center; font-size:1.1em; margin-bottom:2em;">
-  [Forside](/index) · 
-  [Valget af valgfag](/hvorfor) · 
-  [UI/UX](/postsui) · 
-  [Spiludvikling](/postssu) · 
-  [Generelt](/posts/) · 
-  [Om mig](/about)  
+  <a href="/csoblog/index">Forside</a> ·
+  <a href="/csoblog/hvorfor">Valget af fag</a> ·
+  <a href="/csoblog/postsui">UI/UX</a> ·
+  <a href="/csoblog/postssu">Spiludvikling</a> ·
+  <a href="/csoblog/posts">Generelt</a> ·
+  <a href="/csoblog/about">Om mig</a>
 </nav>
+
 
 # Velkommen til min læringsrejse  
 
 Hej, og tak fordi du kigger forbi!  
-Denne blog er mit personlige rum, hvor jeg deler tanker, erfaringer og indsigter fra min egen læringsproces i mine to valgfag: 
-UI/UX og Spiludvikling  
+Denne blog er mit personlige rum, hvor jeg deler tanker, erfaringer og indsigter fra min egen læringsproces i mine to valgfag: <br> UI/UX og Spiludvikling  
 
 [Hvorfor netop disse to valgfag?](https://chstol.github.io/csoblog/hvorfor "Find out more!")  
 

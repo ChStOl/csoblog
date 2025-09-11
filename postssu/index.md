@@ -9,7 +9,7 @@
 
 # Spiludvikling
 
-Dette er en oversigtsside for mit valgfag,**spiludvikling**. Her kan du finde alle relevante filer, opslag og ressourcer om emnet.
+Dette er en oversigtsside for mit valgfag, **spiludvikling**. Her kan du finde alle relevante filer, opslag og ressourcer om emnet.
 
 ---
 

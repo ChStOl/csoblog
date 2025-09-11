@@ -9,7 +9,7 @@
 
 # UI/UX
 
-Dette er en oversigtsside for valgfaget,**UI/UX-design**. Her kan du finde alle relevante filer, opslag og ressourcer om emnet.
+Dette er en oversigtsside for valgfaget, **UI/UX-design**. Her kan du finde alle relevante filer, opslag og ressourcer om emnet.
 
 ---
 

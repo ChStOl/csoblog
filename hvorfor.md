@@ -1,5 +1,5 @@
 <nav style="text-align:center; font-size:1.1em; margin-bottom:2em;">
-  <a href="/csoblog/index">Forside</a> ·
+  <a href="/csoblog">Forside</a> ·
   <a href="/csoblog/hvorfor">Valget af fag</a> ·
   <a href="/csoblog/postsui/">UI/UX</a> ·
   <a href="/csoblog/postssu/">Spiludvikling</a> ·

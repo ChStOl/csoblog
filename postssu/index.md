@@ -29,6 +29,6 @@ Dette er en oversigtsside for mit valgfag, **spiludvikling**. Her kan du finde a
 
 ---
 
-<footer style="text-align:center; font-size:0.9em; color:gray;">  
-© 2025 CSO Blog – Alle rettigheder forbeholdes · [Om mig](/about)  
+<footer style="text-align:center; font-size:0.9em; color:black;">  
+© 2025 CSO Blog – Alle rettigheder forbeholdes · <a href="/csoblog/about">Om mig</a>  
 </footer>

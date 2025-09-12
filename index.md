@@ -50,5 +50,5 @@ Jeg har startet den her blog for at:
 ---
 
 <footer style="text-align:center; font-size:0.9em; color:gray;">  
-© 2025 CSO Blog – Alle rettigheder forbeholdes · [Om mig](/about) <a href="/csoblog/about">Om mig</a>  
+© 2025 CSO Blog – Alle rettigheder forbeholdes   ·<a href="/csoblog/about">Om mig</a>  
 </footer>

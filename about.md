@@ -19,7 +19,7 @@ Her kan du finde mine kontaktoplysninger, hvis du vil i dialog med mig om blogge
 ## Kontakt  
 - 📧 Mail: [csol63295@edu.ucl.dk](mailto:csol63295@edu.ucl.dk)  
 - 📱 Telefon: +45 28 71 61 79
-- 💼 linkedin.com/in/christian-steen-olsson
+- 💼 www.linkedin.com/in/christian-steen-olsson
 
 ---
 

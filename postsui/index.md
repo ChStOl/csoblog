@@ -14,6 +14,7 @@ Dette er en oversigtsside for valgfaget, **UI/UX-design**. Her kan du finde alle
 ---
 
 ## Oversigt
+- [Læringsmål](https://chstol.github.io/csoblog/postsui/uilm)
 
 ### 1. Introduktion
 - [Hvad er UI/UX?](/postsui/intro)

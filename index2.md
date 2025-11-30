@@ -1,4 +1,4 @@
-<nav style="font-size:1.1em; margin-bottom:2em;">
+<nav style="text-align: center; font-size: 1.1em; margin-bottom: 2em;">
   <a href="/csoblog">Forside</a> ·
   <a href="/csoblog/hvorfor">Valget af fag</a> ·
   <a href="/csoblog/postsui/">UI/UX</a> ·
@@ -7,7 +7,7 @@
   <a href="/csoblog/about">Om mig</a>
 </nav>
 
-<div style="text-align: center; margin: 1em 0;">
+<div style="text-align: center; margin: 1em 0; border: 2px black solid;">
   <img src="images/mitbillede.jpg" alt="Billede af Christian Olsson" style="width: 150px; border-radius: 50%;">
 </div>
 
@@ -15,7 +15,7 @@
 
 Hej, og tak fordi du kigger forbi!
 
-Denne blog er mit **personlige rum**, hvor jeg deler tanker, erfaringer og indsigter fra min egen læringsproces i mine to valgfag: **UI/UX** og **Spiludvikling**.
+Denne blog er mit **personlige rum**, hvor jeg deler tanker, erfaringer og indsigter fra min egen læringsproces i mine to valgfag: <br> **UI/UX** og **Spiludvikling**.
 
 [Hvorfor netop disse to valgfag?](https://chstol.github.io/csoblog/hvorfor)
 
@@ -56,6 +56,6 @@ Jeg har startet denne blog for at:
 
 ---
 
-<footer style="font-size:0.9em; color:black; margin-top: 2em;">
+<footer style="text-align: center; font-size: 0.9em; color: black; margin-top: 2em;">
   © 2025 CSO Blog – Alle rettigheder forbeholdes · <a href="/csoblog/about">Om mig</a>
 </footer>

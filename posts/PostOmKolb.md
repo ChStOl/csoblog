@@ -26,8 +26,7 @@ I denne fase tester man de nye ideer eller teorier i praksis. Man anvender det, 
 
 Tanker om modellen:
 Kolbs læringscyklus understreger, at læring er en cirkulær proces, hvor man hele tiden skifter mellem at opleve, reflektere, tænke og handle.
-Det er måske også en interessant tanke, at teorien eller modellen ikke nødvendigvis er en fremgangsmåde, man "vælger", men nærmere bare en beskrivelse af, hvordan læring rent faktisk finder sted helt organisk.
-Dette betyder dog ikke, at kendskab til Kolbs læringscyklus ikke kan have sine fordele, hvor man kan tage udgangspunkt i teorien for at analysere og vurdere sin egen læring.
+Det er måske også en interessant tanke, at teorien eller modellen ikke nødvendigvis er en fremgangsmåde, man "vælger", men nærmere bare en beskrivelse af, hvordan læring rent faktisk finder sted helt organisk. Dette betyder dog ikke, at kendskab til Kolbs læringscyklus ikke kan have sine fordele, hvor man kan tage udgangspunkt i teorien for at analysere og vurdere sin egen læring.
 
 ---
 

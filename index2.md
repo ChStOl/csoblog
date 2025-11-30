@@ -7,11 +7,14 @@
   <a href="/csoblog/about">Om mig</a>
 </nav>
 
-<div style="text-align: center; margin: 1em 0; border: 2px black solid;">
-  <img src="images/mitbillede.jpg" alt="Billede af Christian Olsson" style="width: 150px; border-radius: 50%;">
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+  <div style="flex: 0 0 auto; margin-right: 20px;">
+    <img src="images/ditbillede.jpg" alt="Billede af Chris Olsson" style="width: 150px; border-radius: 50%;">
+  </div>
+  <div style="flex: 1 1 auto;">
+    <h1 style="margin: 0;">Velkommen til min læringsrejse</h1>
+  </div>
 </div>
-
-# Velkommen til min læringsrejse
 
 Hej, og tak fordi du kigger forbi!
 

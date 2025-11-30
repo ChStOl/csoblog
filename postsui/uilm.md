@@ -7,7 +7,7 @@
   <a href="/csoblog/about">Om mig</a>
 </nav>
 
-# Læringsmål for UI/UX-valgfaget
+# Læringsmål for UI/UX
 
 ### **Viden**
 Den studerende har viden om:

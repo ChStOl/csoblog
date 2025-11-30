@@ -1,4 +1,4 @@
-<nav style="text-align:center; font-size:1.1em; margin-bottom:2em;">
+<nav style="text-align: center; font-size: 1.1em; margin-bottom: 2em;">
   <a href="/csoblog">Forside</a> ·
   <a href="/csoblog/hvorfor">Valget af fag</a> ·
   <a href="/csoblog/postsui/">UI/UX</a> ·
@@ -7,48 +7,58 @@
   <a href="/csoblog/about">Om mig</a>
 </nav>
 
-# Velkommen til min læringsrejse  
+<div style="display: flex; align-items: center; margin-bottom: 1em;">
+  <div style="flex: 0 0 auto; margin-right: 20px;">
+    <img src="images/mitbillede.jpg" alt="Billede af Christian Olsson" style="width: 150px; border-radius: 50%;">
+  </div>
+  <div style="flex: 1 1 auto;">
+    <h1 style="margin: 0;">Velkommen til min læringsrejse</h1>
+  </div>
+</div>
 
-Hej, og tak fordi du kigger forbi!  
-Denne blog er mit personlige rum, hvor jeg deler tanker, erfaringer og indsigter fra min egen læringsproces i mine to valgfag: <br> UI/UX og Spiludvikling  
+Hej, og tak fordi du kigger forbi!
 
-[Hvorfor netop disse to valgfag?](https://chstol.github.io/csoblog/hvorfor "Find out more!")  
+Denne blog er mit **personlige rum**, hvor jeg deler tanker, erfaringer og indsigter fra min egen læringsproces i mine to valgfag: <br> **UI/UX** og **Spiludvikling**.
 
-**Læring ikke er en destination – men en rejse**.  
-Her skriver jeg åbent om, hvad jeg lærer, hvilke udfordringer jeg møder, og hvordan jeg hele tiden prøver at udvikle mig.  
+[Hvorfor netop disse to valgfag?](https://chstol.github.io/csoblog/hvorfor)
 
----
+**Læring er ikke en destination – men en rejse.**
 
-## Hvad kan du finde her?  
-- ✍️ Refleksioner over min læring  
-- 📚 Opsummeringer af bøger, artikler og ressourcer jeg bruger  
-- 💡 Ideer, metoder og værktøjer der hjælper mig  
-- 🌱 Små skridt mod personlig og faglig udvikling  
-
----
-
-## Hvorfor denne blog?  
-Jeg har startet den her blog for at:  
-1. **Dokumentere min rejse** – så jeg kan se tilbage og lære af mine egne erfaringer.   
-2. **Skabe samtale** – læring bliver stærkere, når vi deler og reflekterer sammen.  
-3. **Dele med andre** – måske kan noget af det jeg skriver inspirere dig i din egen læring.  
+Her skriver jeg åbent om, **hvad jeg lærer**, hvilke **udfordringer jeg møder**, og hvordan jeg hele tiden prøver at udvikle mig.
 
 ---
 
-## Arkiv 🗂️  
+## Hvad kan du finde her?
+- ✍️ **Refleksioner** over min læring
+- 📚 **Opsummeringer** af bøger, artikler og ressourcer jeg bruger
+- 💡 **Ideer, metoder og værktøjer** der hjælper mig
+- 🌱 **Små skridt** mod personlig og faglig udvikling
+
+---
+
+## Hvorfor denne blog?
+Jeg har startet denne blog for at:
+
+1. **Dokumentere min rejse** – så jeg kan se tilbage og lære af mine egne erfaringer.
+2. **Skabe samtale** – læring bliver stærkere, når vi deler og reflekterer sammen.
+3. **Dele med andre** – måske kan noget af det, jeg skriver, inspirere dig i din egen læring.
+
+---
+
+## Arkiv 🗂️
 
 ### 🎨 UI/UX
-- _(kommende indlæg …)_  
+- *(kommende indlæg …)*
 
-### 🎮 Spiludvikling  
-- _(kommende indlæg …)_  
+### 🎮 Spiludvikling
+- *(kommende indlæg …)*
 
-### 📦 Generelt 
+### 📦 Generelt
 - [Kolb's læringscyklus](https://chstol.github.io/csoblog/posts/PostOmKolb)
-- _(flere indlæg kommer løbende …)_  
+- *(flere indlæg kommer løbende …)*
 
 ---
 
-<footer style="text-align:center; font-size:0.9em; color:black;">  
-© 2025 CSO Blog – Alle rettigheder forbeholdes · <a href="/csoblog/about">Om mig</a>  
+<footer style="text-align: center; font-size: 0.9em; color: black; margin-top: 2em;">
+  © 2025 CSO Blog – Alle rettigheder forbeholdes · <a href="/csoblog/about">Om mig</a>
 </footer>

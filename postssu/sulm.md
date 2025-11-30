@@ -28,7 +28,7 @@ Den studerende kan:
 
 ### **Kompetencer**
 Den studerende kan:
-- **Selvstændigt udvikle et lille spil i Godot** fra idé til færdigt produkt, herunder **planlægning, prototyping og testing**.
+- **Selvstændigt udvikle et spil i Godot** fra idé til færdigt produkt, herunder **design og prototyping**.
 - **Reflektere over designvalg** og justere spillet baseret på **brugerfeedback eller tekniske udfordringer**.
 - **Integrere grundlæggende spiludviklingsprincipper** (f.eks. gameloops, fysik) i praksis og forklare deres rolle i spillets funktion.
 

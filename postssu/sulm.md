@@ -22,7 +22,6 @@ Den studerende kan:
 - **Opsætte et projekt i Godot**, herunder **scener, nodes og scripts (GDScript)**.
 - **Implementere en simpel gameloop** med **brugerinput, collision detection og scoring**.
 - **Designe og prototypere et lille spil** (f.eks. et **2D-platformspil eller quiz**) med **grafik, lyd og interaktive elementer**.
-- **Debugge og optimere koden** for at sikre, at spillet kører stabilt.
 
 ---
 

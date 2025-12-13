@@ -54,6 +54,8 @@ Jeg har startet denne blog for at:
 - [Uge 37](https://chstol.github.io/csoblog/postsui/u37)
 - [Uge 38](https://chstol.github.io/csoblog/postsui/u38)
 - [Uge 41](https://chstol.github.io/csoblog/postsui/u41)
+- [Uge 45](https://chstol.github.io/csoblog/postsui/u45)
+- [Uge 47](https://chstol.github.io/csoblog/postsui/u47)
 
 ### 🎮 Spiludvikling
 - [Læringsmål](https://chstol.github.io/csoblog/postssu/sulm)

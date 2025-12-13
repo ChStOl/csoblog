@@ -49,13 +49,13 @@ Jeg har startet denne blog for at:
 
 ### 🎨 UI/UX
 - [Læringsmål](https://chstol.github.io/csoblog/postsui/uilm)
+- [Uge 35](https://chstol.github.io/csoblog/postsui/u35)
 
 ### 🎮 Spiludvikling
 - [Læringsmål](https://chstol.github.io/csoblog/postssu/sulm)
 
 ### 📦 Generelt
 - [Kolb's læringscyklus](https://chstol.github.io/csoblog/posts/PostOmKolb)
-- *(flere indlæg kommer løbende …)*
 
 ---
 

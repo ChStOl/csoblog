@@ -16,18 +16,6 @@ Dette er en oversigtsside for mit valgfag, **spiludvikling**. Her kan du finde a
 ## Oversigt
 - [Læringsmål](https://chstol.github.io/csoblog/postssu/sulm)
 
-### 1. Introduktion
-
-### 2. Guides og Tutorials
-
-### 3. Ressourcer
-
-### 4. Eksempler og Projekter
-
----
-
-## Seneste opdateringer
-
 ---
 
 <footer style="text-align:center; font-size:0.9em; color:black;">  

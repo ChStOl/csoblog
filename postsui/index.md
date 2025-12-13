@@ -15,28 +15,7 @@ Dette er en oversigtsside for valgfaget, **UI/UX-design**. Her kan du finde alle
 
 ## Oversigt
 - [Læringsmål](https://chstol.github.io/csoblog/postsui/uilm)
-
-### 1. Introduktion
-- [Hvad er UI/UX?](/postsui/intro)
-- [Forskellen på UI og UX](/postsui/forskel)
-
-### 2. Guides og Tutorials
-- [Kom godt i gang med Figma](/uxui/figma-start)
-- [Brugerundersøgelser: Metoder og tips](/uxui/brugerundersoegelser)
-
-### 3. Ressourcer
-- [Værktøjer til wireframing](/uxui/vaerktoejer)
-- [Anbefalede bøger om UX/UI](/uxui/litteratur)
-
-### 4. Eksempler og Projekter
-- [Case: Redesign af en app](/uxui/case-app)
-- [Mine UI/UX-projekter](/uxui/mine-projekter)
-
----
-
-## Seneste opdateringer
-- [Ny guide: Prototyping i Figma](/uxui/ny-prototyping) – *10. september 2025*
-- [Opdateret: Brugerfeedback-metoder](/uxui/feedback-metoder) – *5. september 2025*
+- [Læringsmål](https://chstol.github.io/csoblog/postsui/u35)
 
 ---
 

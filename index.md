@@ -61,6 +61,7 @@ Jeg har startet denne blog for at:
 ### 🎮 Spiludvikling
 - [Læringsmål](https://chstol.github.io/csoblog/postssu/sulm)
 - [Uge 37](https://chstol.github.io/csoblog/postssu/u37)
+- [Uge 41](https://chstol.github.io/csoblog/postssu/u41)
 
 ### 📦 Generelt
 - [Hvordan kringler jeg portføljen?](https://chstol.github.io/csoblog/posts/how2port)

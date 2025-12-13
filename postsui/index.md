@@ -15,6 +15,7 @@ Dette er en oversigtsside for valgfaget, **UI/UX-design**. Her kan du finde alle
 
 ## Oversigt
 - [Læringsmål](https://chstol.github.io/csoblog/postsui/uilm)
+- [Sketching](https://chstol.github.io/csoblog/postsui/fligma)
 - [Uge 35](https://chstol.github.io/csoblog/postsui/u35)
 - [Uge 36, Teori](https://chstol.github.io/csoblog/postsui/u36)
 - [Uge 37](https://chstol.github.io/csoblog/postsui/u37)

@@ -49,6 +49,7 @@ Jeg har startet denne blog for at:
 
 ### 🎨 UI/UX
 - [Læringsmål](https://chstol.github.io/csoblog/postsui/uilm)
+- [Sketching](https://chstol.github.io/csoblog/postsui/fligma)
 - [Uge 35](https://chstol.github.io/csoblog/postsui/u35)
 - [Uge 36, Teori](https://chstol.github.io/csoblog/postsui/u36)
 - [Uge 37](https://chstol.github.io/csoblog/postsui/u37)
@@ -59,6 +60,7 @@ Jeg har startet denne blog for at:
 
 ### 🎮 Spiludvikling
 - [Læringsmål](https://chstol.github.io/csoblog/postssu/sulm)
+- [Uge 37](https://chstol.github.io/csoblog/postssu/u37)
 
 ### 📦 Generelt
 - [Hvordan kringler jeg portføljen?](https://chstol.github.io/csoblog/posts/how2port)

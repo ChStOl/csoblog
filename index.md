@@ -50,8 +50,10 @@ Jeg har startet denne blog for at:
 ### 🎨 UI/UX
 - [Læringsmål](https://chstol.github.io/csoblog/postsui/uilm)
 - [Uge 35](https://chstol.github.io/csoblog/postsui/u35)
+- [Uge 36, Teori](https://chstol.github.io/csoblog/postsui/u36)
 - [Uge 37](https://chstol.github.io/csoblog/postsui/u37)
 - [Uge 38](https://chstol.github.io/csoblog/postsui/u38)
+- [Uge 41](https://chstol.github.io/csoblog/postsui/u41)
 
 ### 🎮 Spiludvikling
 - [Læringsmål](https://chstol.github.io/csoblog/postssu/sulm)

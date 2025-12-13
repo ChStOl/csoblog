@@ -9,7 +9,7 @@
 
 <div style="display: flex; align-items: center; margin-bottom: 1em;">
   <div style="flex: 0 0 auto; margin-right: 20px;">
-    <img src="csoblog/images/mitbillede.jpg" alt="Billede af Christian Olsson" style="width: 150px; border-radius: 50%;">
+    <img src="/csoblog/images/mitbillede.jpg" alt="Billede af Christian Olsson" style="width: 150px; border-radius: 50%;">
   </div>
   <div style="flex: 1 1 auto;">
     <h1 style="margin: 0;">Velkommen til min læringsrejse</h1>
@@ -50,6 +50,7 @@ Jeg har startet denne blog for at:
 ### 🎨 UI/UX
 - [Læringsmål](https://chstol.github.io/csoblog/postsui/uilm)
 - [Uge 35](https://chstol.github.io/csoblog/postsui/u35)
+- [Uge 37](https://chstol.github.io/csoblog/postsui/u37)
 
 ### 🎮 Spiludvikling
 - [Læringsmål](https://chstol.github.io/csoblog/postssu/sulm)

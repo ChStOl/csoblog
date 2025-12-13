@@ -7,18 +7,11 @@
   <a href="/csoblog/about">Om mig</a>
 </nav>
 
-# Generelt
+# Portfølje-usikkerhed og GitHub Pages
 
-Dette er en oversigtsside for **generelle opslag**. Her kan du finde alle relevante filer, opslag og ressourcer inden for forskellige emner.
-
----
-
-## Oversigt
-- [Hvordan kringler jeg portføljen?](https://chstol.github.io/csoblog/posts/how2port)
-- [Kolb's læringscyklus](https://chstol.github.io/csoblog/posts/PostOmKolb)
+Jeg har været usikker på, hvordan jeg skulle strukturere min portfølje. Det var frustrerende ikke at vide, hvilke muligheder der var. Til sidst valgte jeg at bruge **GitHub Pages** til at vise mine projekter.
 
 ---
-
 <footer style="text-align:center; font-size:0.9em; color:black;">
   © 2025 CSO Blog – Alle rettigheder forbeholdes · <a href="/csoblog/about">Om mig</a>
 </footer>

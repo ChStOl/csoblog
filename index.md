@@ -51,11 +51,13 @@ Jeg har startet denne blog for at:
 - [Læringsmål](https://chstol.github.io/csoblog/postsui/uilm)
 - [Uge 35](https://chstol.github.io/csoblog/postsui/u35)
 - [Uge 37](https://chstol.github.io/csoblog/postsui/u37)
+- [Uge 38](https://chstol.github.io/csoblog/postsui/u38)
 
 ### 🎮 Spiludvikling
 - [Læringsmål](https://chstol.github.io/csoblog/postssu/sulm)
 
 ### 📦 Generelt
+- [Hvordan kringler jeg portføljen?](https://chstol.github.io/csoblog/posts/how2port)
 - [Kolb's læringscyklus](https://chstol.github.io/csoblog/posts/PostOmKolb)
 
 ---

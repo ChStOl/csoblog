@@ -15,9 +15,10 @@ Dette er en oversigtsside for mit valgfag, **spiludvikling**. Her kan du finde a
 
 ## Oversigt
 - [Læringsmål](https://chstol.github.io/csoblog/postssu/sulm)
-- [Uge 37](https://chstol.github.io/csoblog/postssu/u37)
-- [Uge 41](https://chstol.github.io/csoblog/postssu/u41)
-- [Uge 44](https://chstol.github.io/csoblog/postssu/u44)
+- [Uge 37: Game Engines](https://chstol.github.io/csoblog/postssu/u37)
+- [Uge 41: Brainstorm om spil i projekt](https://chstol.github.io/csoblog/postssu/u41)
+- [Uge 44: Brainstorming af Godot-spil](https://chstol.github.io/csoblog/postssu/u44)
+- [Uge 47: Start på Godot-projekt](https://chstol.github.io/csoblog/postssu/u47)
 
 ---
 

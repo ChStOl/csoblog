@@ -16,6 +16,7 @@ Dette er en oversigtsside for **generelle opslag**. Her kan du finde alle releva
 ## Oversigt
 - [Hvordan kringler jeg portføljen?](https://chstol.github.io/csoblog/posts/how2port)
 - [Kolb's læringscyklus](https://chstol.github.io/csoblog/posts/PostOmKolb)
+- [Projekt: Use Cases, tidlig HLD & Planning Poker](https://chstol.github.io/csoblog/posts/ucpp)
 
 ---
 

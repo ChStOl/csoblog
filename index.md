@@ -68,6 +68,7 @@ Jeg har startet denne blog for at:
 ### 📦 Generelt
 - [Hvordan kringler jeg portføljen?](https://chstol.github.io/csoblog/posts/how2port)
 - [Kolb's læringscyklus](https://chstol.github.io/csoblog/posts/PostOmKolb)
+- [Projekt: Use Cases, tidlig HLD & Planning Poker](https://chstol.github.io/csoblog/posts/ucpp)
 
 ---
 
